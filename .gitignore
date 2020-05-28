@@ -1,4 +1,4 @@
 .vscode/launch.json
-__pycache__/app.cpython-36.pyc
+*.pyc
 site.db
-python_test.py
+.vscode/settings.json
