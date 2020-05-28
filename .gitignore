@@ -1,3 +1,4 @@
 .vscode/launch.json
 __pycache__/app.cpython-36.pyc
 site.db
+python_test.py
